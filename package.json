@@ -1,0 +1,30 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "application that tells joke, css only e-commerce application, personal collection of useful function.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enirose/git-workflow-joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Enirose Hellum <enirosehellum@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enirose/git-workflow-joker/issues"
+  },
+  "homepage": "https://github.com/Enirose/git-workflow-joker#readme"
+
+}
+{
+  "description": "example",
+  "type": "module",
+}

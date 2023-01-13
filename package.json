@@ -1,7 +1,7 @@
 {
   "name": "joker",
   "version": "0.0.1",
-  "description": "application that tells joke, css only e-commerce application, personal collection of useful function.",
+  "description": "example",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,10 +21,9 @@
   "bugs": {
     "url": "https://github.com/Enirose/git-workflow-joker/issues"
   },
-  "homepage": "https://github.com/Enirose/git-workflow-joker#readme"
-
-}
-{
-  "description": "example",
+  "homepage": "https://github.com/Enirose/git-workflow-joker#readme",
   "type": "module",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }

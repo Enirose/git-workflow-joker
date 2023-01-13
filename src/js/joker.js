@@ -1,3 +1,7 @@
 import joker from "give-me-a-joke";
 
-joker.getRamdomDadJoke(console.log);
+export function dadJoke() {
+    return new Promise (function(resolve, reject) {
+        joker.getRamdomDadJoke(resolve);
+    })
+}

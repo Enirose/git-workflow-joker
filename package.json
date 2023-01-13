@@ -1,0 +1,33 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "example",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enirose/git-workflow-joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Enirose Hellum <enirosehellum@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enirose/git-workflow-joker/issues"
+  },
+  "homepage": "https://github.com/Enirose/git-workflow-joker#readme",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^2.8.2"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
